@@ -171,6 +171,7 @@ Kernel:
 
 ## Final Project Research Questions and answers
 **Default Project**
+
 **1- What is Linux?** 
 Linux is an open-source operating system created by Linus Torvalds in the early 1990s. The term Linux applies to the Os or the Linux Kernel. The Linux kernel is the heart of the operating system, whose principal function is to be an intermediary between the software and the hardware. Besides the Kernel, it contains libraries, web browsers, and other programs. This Os is very popular as a web server. However, it is used, as well, in many other areas such as network Os, cloud Os, and software development.
 
