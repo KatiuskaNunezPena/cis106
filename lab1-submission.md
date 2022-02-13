@@ -1,5 +1,6 @@
 ---
 Name: Katiuska
+
 Course: cis-106
 ---
 
@@ -55,6 +56,6 @@ Course: cis-106
 
 ![question6.1](q6.1.PNG)
 
-![question6.2](q6.2.PNG)
+![question6.2](q6.2.png)
 
-![question6.3](q6.3.PNG)
+![question6.3](q6.3.png)
