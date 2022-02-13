@@ -179,14 +179,14 @@ Linux is an open-source operating system created by Linus Torvalds in the early 
 Linux distribution or distros refers to an operating system that is developed from the Linux Kernel. There are different versions of Linux. Each one is involved in a specific area. For example, some distros are created for server or desktop use. Linux distributions can be commercial backed by corporations and non-commercial assisted by a community of volunteers. 
 
 **Linux most popular distributions:**
-1- UBuntu	
-2- Linux mint	
-3- Debian	
-4- Fedora	
-5- Red hat enterprise	
-6- CentOS	
-7- OpenSUSE	
-8- Arch Linux	
+- UBuntu	
+- Linux mint	
+- Debian	
+- Fedora	
+- Red hat enterprise	
+- CentOS	
+- OpenSUSE	
+- Arch Linux	
 
 
 **3- What is Ubuntu?**
