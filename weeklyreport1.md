@@ -197,7 +197,7 @@ The word Ubuntu means “humanity to others” and “I am what I am because of 
 
 **System Requirements for Ubuntu 20.04:**
 - 2 GHz dual-core processor.
-- 4 GiB RAM (but 1 GiB can work).
+- 4 GB RAM (but 1 GiB can work).
 - 25 GB of hard-drive space
 - VGA capable of 1024×768 screen resolution
 - Either of the two: a CD/DVD drive or a USB port for the installer media Optionally, Internet access is helpful.
