@@ -5,10 +5,12 @@ What is virtualization
 - Simulation of a computer inside a  physical machine.
 - There are 2 general types:
       - Server-side virtualization: process of creating multiple servers instaces from one physical server.
-          * Virtual Desktop Infraestructure(VDI):
-              + Thick client or fat client
-              + Thin Client
-              + Zero client
+  
+      * Virtual Desktop Infraestructure(VDI):
+  
+       + Thick client or fat client
+       + Thin Client
+       + Zero client
   
 - Client-side virtualization: is a VM in the user's pc.
  + Characteristics:
