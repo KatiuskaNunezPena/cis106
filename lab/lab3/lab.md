@@ -1,21 +1,21 @@
 ---
-name:Katiuska
+name : Katiuska
 Class: cis106
 Semester: Spring 22
 ---
 # Lab 3 using Ubuntu
 
 # Question 1
+
 ![question 1](q1.1.png)
+
 ![question 1.2](q1.2.png)
 
-
 # Question 2
+
 ![question 2](q2.1.png)
 
-
 # Question 3
-
 
 | Program purpose     | Package Name | Version  | Description                                    |
 |---------------------|--------------|----------| -----------------------------------------------|
@@ -24,7 +24,6 @@ Semester: Spring 22
 | Browse the internet |  falkon      | 3.1.0-0  | lightweight web browser based on Qt WebEngine  |
 | Read your email     | kmail         | 4:19.12.3| full featured graphical email client          |
 | Play music          |  lollypop    |1.2.35-1  | modern music player                            |
-
 
 1- Commands answers:
 
@@ -41,6 +40,7 @@ Semester: Spring 22
 `sudo apt purge quadrapassel+ dragonplayer+ falkon- kmail- lollypop-`
 
 # Question #4
+
 | command | what it does                                       |
 |---------|----------------------------------------------------|
 | echo    | display a line of text                             |
