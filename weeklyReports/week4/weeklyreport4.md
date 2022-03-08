@@ -10,7 +10,7 @@ A table of the commands in the presentation including what the command does and 
 |-----------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
 |pwd              |displays the current working directory                                   |pwd                                                                      |
 |cd               |used to change the current working directory                             | `cd  ~ /$HOME` (this will take you home).`cd -`(go to previous current working directory).`cd ../`(to go back the current working directory)|
-|ls/dir/exa/tree  |displays all file inside a given directory or current working directory  |`ls \Downloads`(show file in downloads).`ls -a `(show all files including hidden file).`ls -LR ~/Downloads`(long list all files recursively) .                                                   |
+|ls               |displays all file inside a given directory or current working directory  |`ls \Downloads`(show file in downloads).`ls -a `(show all files including hidden file).`ls -LR ~/Downloads`(long list all files recursively) .  |
 
 
 
