@@ -1,7 +1,7 @@
 ---
 name : Katiuska
 Class: cis106
-Semester: Spring 22
+Semester:Spring 22
 ---
 # Lab 3 using Ubuntu
 
