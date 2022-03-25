@@ -24,15 +24,17 @@ How to know if your computer is capable of virtualizing? to virtualize your comp
 
 
 <p align="center">
-  <img width="460" height="300" src="/FinalProject/linuxlogo.jpg">
+  <img width="460" height="300" src="https://firebasestorage.googleapis.com/v0/b/imagenesdeliverable1.appspot.com/o/linuxlogo.jpg?alt=media&token=2e06e43d-f279-45dd-a731-4a73edbf6b94">
 </p>
+
+
 ## <center>What is Linux?</center>
 Linux is an open-source operating system created by Linus Torvalds in the early 1990s. The term Linux applies to the Os or the Linux Kernel. The Linux kernel is the heart of the operating system, whose principal function is to be an intermediary between the software and the hardware. Besides the Kernel, it contains libraries, web browsers, and other programs. This Os is very popular as a web server. However, it is used, as well, in many other areas such as network Os, cloud Os, and software development.
 
 
 ### <center>Short history of linux</center>
 <p align="center">
-  <img width="800" height="400" src="/FinalProject/Linuxhistory.png">
+  <img width="800" height="400" src="https://firebasestorage.googleapis.com/v0/b/imagenesdeliverable1.appspot.com/o/Linuxhistory.png?alt=media&token=722bb2b5-e9a4-4fb1-96b2-cd70ef249a87">
 </p>
 
 - In August 1991, Linus Torvalds announced that he was doing a free operating system as a hobby, but it was not very portable because it only works on 386 computers.
@@ -49,18 +51,19 @@ Linux is an open-source operating system created by Linus Torvalds in the early 
 
 ### <center>Linux distribution</center>
 <p align="center">
-  <img width="800" height="400" src="/FinalProject/linuxdistro.png">
+  <img width="800" height="400" src="https://firebasestorage.googleapis.com/v0/b/imagenesdeliverable1.appspot.com/o/linuxdistro.png?alt=media&token=b58c1c41-076e-424c-8bb8-68058b3a4787">
 </p>
 
 * **Slackaware**:
  <p align="center">
-  <img width="400" height="300" src="/FinalProject/slackwarelogo.png">
+  <img width="400" height="300" src="https://firebasestorage.googleapis.com/v0/b/imagenesdeliverable1.appspot.com/o/slackwarelogo.png?alt=media&token=75800dbb-dfb4-4c05-92f5-1e08e23ce615">
 </p>
 Slackware was created in 1993 by Patrick Volkerding. It was developed to be as much Unix-like as possible. One of the benefits of using Slackware is stability. Even though Slackware was developed in the early 90s, it has continued to work without any problems. This distribution had been adapted nicely throughout the time without drastic changes. Another benefit of this distribution is security. Slackware does not have problems with traps and pitfalls. For instance, the new versions of Slackware do not come out until everything is ready.
 
 * **Debian**:
+  
  <p align="center">
-  <img width="500" height="300" src="/FinalProject/debianlogo.png">
+  <img width="500" height="300" src="https://firebasestorage.googleapis.com/v0/b/imagenesdeliverable1.appspot.com/o/debianlogo.png?alt=media&token=bb20db2d-fa39-4677-a8d1-494e4fa25f64">
 </p>
 
 The Debian project started in 1993 with the alliance of a group of volunteers with a common cause which was to create a free operating system. This project is called Debian. Debian is considered to be the Grandfather of all Linux distributions. This operating system uses the Linux kernel. Some of the most popular distributions based on Debian are Linux Mint, Kali Linux, Parrot Os, Linux Deepin, Mx Linux, and steamOs.
@@ -72,7 +75,7 @@ The Debian project started in 1993 with the alliance of a group of volunteers wi
 > Kali Linux: On March 13th, 2013, Kali Linux was released. Mati Aharoni created this Linux distribution, which is based on Debian. Kali Linux is used for network analysts, penetration testers, and other cybersecurity and analytic professionals. Kali Linux is a free multi-platform solution for information security professionals and enthusiasts.
 
    <p align="center">
-  <img width="400" height="300" src="/FinalProject/redhatlogo.jpg">
+  <img width="400" height="300" src="https://firebasestorage.googleapis.com/v0/b/imagenesdeliverable1.appspot.com/o/redhatlogo.jpg?alt=media&token=d7d53c92-bbbb-4d70-a9b9-47c2921e0eaf">
   </p>
 
 * Red Hat Enterprise Linux:  is a  Linux distribution aimed at the commercial market developed by Red Hat. Red Hat Enterprise Linux is available in server and desktop variants. For example, x86 and x86 64 processors. As well as Itanium, PowerPC, and IBM System z architectures. Red Hat uses restrictive trademark measures to prohibit free re-distribution of its officially supported versions of Red Hat Enterprise Linux, although its source code is freely available. 
