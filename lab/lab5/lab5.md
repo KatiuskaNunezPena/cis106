@@ -10,6 +10,7 @@ Semester: Spring 22
 
 ## Question 2
 ![q2](q2.png)<br>
+
 ## Question 3
 ![q3.1](q3.1.png)<br>
 
