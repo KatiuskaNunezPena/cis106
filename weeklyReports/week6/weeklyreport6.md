@@ -10,7 +10,7 @@ A wildcard is a character that can be used in a search to replace any of a group
 |*       |It matches anything and nothing matches any number of characters                                                                  | ls *.txt            |
 |?       |In shell commands, is used as a wildcard character to indicate exactly one character or more, which can be any single character.  |   ls t?.txt         |
 |[]      |It matches a single character in a range                                                                                          | ls p[aeiou]*        |
-|[!]     |It matches all except what is inside the brackets                                                                                 | ls [ae]*            |
+|[!]     |It matches all except what is inside the brackets                                                                                 | ls [!ae]*            |
 ![cheatsheetwildcard](../../cheat%20sheets/WILDCARDS_FILE%20GLOBBING%20CHEAT%20SHEET.png)
 
 - **Brace expansion and how to use it**
