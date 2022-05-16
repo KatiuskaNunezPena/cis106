@@ -1,3 +1,7 @@
+---
+Name : Katiuska Nunez
+Semester: Spring 2022
+---
 ## Deliverable 3
 
 
@@ -14,14 +18,14 @@ Allowing users to connect to the internet is a must in every operating system. C
 ### Internet browsing
 Browsing the internet is possible by the use of a software program called a web browser. The web browser is what users used to search their favorite web pages such as Facebook, Instagram, Youtube, etc.
 
-![Mozillabrowser](https://www.simpleimageresizer.com/_uploads/photos/1a6262b8/453px-Mozilla_Firefox_logo_2013.svg_100x100.png)<br>
+![Mozillabrowser](mozillalogo.png)<br>
 
 
 #### Mozilla browser:
  Mozilla Firefox: is an open-source web browser developed by the Mozilla foundation that comes within the OS ubuntu. This web browser is available for Linux, Mac, and windows. Some interesting features of this web browser are tabbed browsing, spell checking, smart bookmarks, and more. This web browser came by default in the Ubuntu os.
 
 #### Alternatives :
-<br>![Googlechrom](https://www.simpleimageresizer.com/_uploads/photos/1a6262b8/googlr_100x100.png)<br>
+<br>![Googlechrom](chromelogo.png) <br>
 
 * Google Chrome : 
 It is a free web browser created by Google for browsing internet pages. Google chrome is the most common web browser worldwide. This web browser has different tools such as the back, history, bookmarks, and settings.
@@ -45,7 +49,7 @@ Linx is an easy way to browse anything from the terminal. To launch the website 
 <br>
 ### Reading email
 Email messages have become one of the primary ways to reach or communicate with others at school and work. Ubuntu offers a variety of client email services that users can easily download and used.
-![thunder](https://www.simpleimageresizer.com/_uploads/photos/1a6262b8/thunderbird_100x100.png)<br>
+![thunder](thuderbirdlogo.png) <br>
 #### Thuderbird mail 
 Thunderbird mail is a client email service included with the Ubuntu operating system.
 The Mozilla Foundation created it as an open source project.Users can send and receive messages in Thunderbird. It has a simple design that makes it very easy to utilize. 
@@ -54,7 +58,7 @@ The Mozilla Foundation created it as an open source project.Users can send and r
   ![example](thundermail.gif)<br>
 
 #### Alternatives :
-![mailspring](https://www.simpleimageresizer.com/_uploads/photos/1a6262b8/og3Zdvb3_400x400_100x100.jpg)<br>
+![mailspring](mailspringlogo.jpg) <br>
  *  Mailspring : is another alternative is Mailspring .Mailspring is an open-source email client platform that saves all the emails on the computer allowing access anytime.
 
   * Link to download: https://getmailspring.com/download
@@ -66,7 +70,7 @@ The Mozilla Foundation created it as an open source project.Users can send and r
 ### Remote assistance
 In the workplace and for training, remote support is quite beneficial.Remote assistance is a computer software that can aid others in resolving problems or completing tasks. Outsiders can monitor your screen and move your mouse from another computer using this type of application.
 <br>
-![teamviwer](https://www.simpleimageresizer.com/_uploads/photos/1a6262b8/TeamViewer_Logo_512x512_100x100.png)
+![teamviwer](teamviewlogo.png)
 <br>
 #### TeamViewer:
  It is one of the most popular remote assistance programs. It is available in Windows, Mac OS, Chrome OS, and Linux. It is considered to be the most secure and reliable app for remote desktop sharing.
@@ -78,7 +82,7 @@ In the workplace and for training, remote support is quite beneficial.Remote ass
 
 Office productivity is a group of software associated with business needs.For example,document redaction,PowerPoint presentations,excel program,etc. 
 
-<br>![microOffice](https://www.simpleimageresizer.com/_uploads/photos/1a6262b8/microsoftoffice_100x100.png)<br>
+<br>![microOffice](microsoftofficelogo.png) <br>
 
 #### Microsoft Office 365 online:
 Microsoft Office 365 Online is a web-based version of Microsoft Office that lets you create and edit documents in Word, PowerPoint, Excel, and OneNote. 
@@ -86,26 +90,27 @@ Microsoft Office 365 Online is a web-based version of Microsoft Office that lets
 
 
 #### Alternative: 
-![LibreOff](https://www.simpleimageresizer.com/_uploads/photos/1a6262b8/libreoffi_100x100.png)<br>
+![LibreOff](libreofficelogo.png) <br>
 * LibreOffice:
 It's an open-source suite that comes with the Ubuntu operating system by default.This application provides a straightforward interface with a number of useful tools.Libre Office included programs for writing papers, creating presentations, calculating, and more. 
         
 ### Streaming music and video
 Enjoying music and video is something that users can accomplish as well on Ubuntu Os. Besides using the browser to stream their favorite media, users can download apps that by design are created for this purpose.
 
-![spotify](https://www.simpleimageresizer.com/_uploads/photos/1a6262b8/spotify_100x100.jpg)<br>
+![spotify](spotifylogo.jpg) <br>
 #### Spotify: 
 It is one of many apps that are dedicated to stream your favorite music. The process of installing the app is simple
 ![installationspotify](spotify.gif)
 
 #### Alternative:
-![kodilogo](https://www.simpleimageresizer.com/_uploads/photos/1a6262b8/kodilogo_100x100.png)<br>
+![kodilogo](kodilogo.png) <br>
 -  Kodi: is a media player application that is available in Microsoft Windows, Mac os, and Linux. It allows users to stream videos, podcasts, and music from the internet along with digital media files from local storage media. Kodi can be downloaded from the software center of Ubuntu os.
 
 ### Video games
 The gaming library in Linux has been growing. As a result, it is considered to be the most popular platform for playing video games. Nowadays, many Windows games are available to play on Linux courtesy of open-source developers.
 
-![steamlogo](https://www.simpleimageresizer.com/_uploads/photos/1a6262b8/steamlogo_100x100.png)<br>
+![steamlogo](steamlogo.png)
+ <br>
 #### Steam : 
 It is one of the most popular digital distribution platform in the gaming community. To use steam, users must create an account in the steam website. In your account will be placed you method of payment.All your video games will be store into a virtual library linked to your account. Users can access to it through the steam website or the app. In addition,users can installed the app in many devices as they want.Some interesting feautures about steam are a built-in chat where users can interact with others gamers,system of achievement, and the most important part is the variety of games available to play.
 
@@ -115,7 +120,7 @@ You can locate Steam withinside the Ubuntu Software app ,or through the command 
 ### Video Chatting/calling/conferencing
 Communication via video calling is a way to interact with people all over the world. This kind of interaction has become very useful these days with online classes. Using Ubuntu you can log in to your browser to pages such as hangout, zoom, etc. However, you can download applications as well.
 
-![skypelogo](https://www.simpleimageresizer.com/_uploads/photos/1a6262b8/skypelogo_100x100.jpg)<br>
+![skypelogo](skypelogo.png) <br>
 #### Skype:
  It is a platform that allows users to communicate with others through video conferencing, instant messaging, and call only. Users can utilize this platform through a web browser or by using a dedicated application. Skype is an excellent option to communicate with others free of cost and with a variety of options.
 
@@ -123,7 +128,7 @@ Communication via video calling is a way to interact with people all over the wo
 
 Instant messaging is a user's favorite informal way to communicate with friends and family. it is text-based communication between one or more people.
 <br>
-![whatsapplogo](https://www.simpleimageresizer.com/_uploads/photos/1a6262b8/whatsapplogo_100x100.jpeg)<br>
+![whatsapplogo](whatsapplogo.jpeg) <br>
 #### Whatsapp: 
 It's a messaging app for cellphones, tablets, and computers.It is used to deliver people text messages as well as multimedia.There are other fascinating options like video call and call-only.Users can use the website or the WhatsApp for Linux app to use this app. 
 
