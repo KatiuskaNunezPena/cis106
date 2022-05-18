@@ -40,13 +40,17 @@ It is a free web browser created by Google for browsing internet pages. Google c
 * Lynx:
  Users of ubuntu can navigate the internet on the terminal by using a text-based browser. For this project , I will be using lynx.
 * How to install Lynx:
-  * ![instlinx](instLinx.gif)<br>
+  * ![instlinx](instLinx.gif) 
+  * <br>
   * How to use linx:
 Linx is an easy way to browse anything from the terminal. To launch the website write the lynx + the website + enter key. because it is a text-based browser user must use the arrow key to move around. Besides, be aware that after you enter a website, at the bottom, it will be a prompt waiting to be authorized to accept cookies .so you will have three different options always, yes(y), or no(n). Noticed that at the bottom is the menu with helpful options. such as how to exit the browser option or the help page.
 <br>
+
 ![usingLinx](usingLinx.gif)
+
 <br>
 <br>
+
 ### Reading email
 Email messages have become one of the primary ways to reach or communicate with others at school and work. Ubuntu offers a variety of client email services that users can easily download and used.
 ![thunder](thuderbirdlogo.png) <br>
